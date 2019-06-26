@@ -11,13 +11,6 @@ end
 # @param {ListNode} l2
 # @return {ListNode}
 def add_two_numbers(l1, l2)
-  add_two_numbers_with_carry(l1,l2,0)
-end
-
-# @param {ListNode} l1
-# @param {ListNode} l2
-# @return {ListNode}
-def add_two_numbers(l1, l2)
   add_two_numbers_with_carry(l1,l2)
 end
 
