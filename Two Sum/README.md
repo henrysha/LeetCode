@@ -19,7 +19,7 @@ return [0, 1].
 Solution
 ---
 #### Python 3
-[code](https://github.com/swha0901/LeetCode/tree/master/Two%20Sum/twosum.py)
+[code](https://github.com/henrysha/LeetCode/tree/master/Two%20Sum/twosum.py)
 
 I used a dictionary containing lists of indexes to store the number's location. Reason for choosing this structure is because there maybe a duplicate number in the input array. Key to the dictionary is the number, and values stored in the list are the indexes.
 
@@ -28,6 +28,6 @@ While looping through the input array, I push the index into the corresponding l
 Index of the complement is basically the first index stored in the dictionary of that number. This is because if the numbers forming the sum are the same, there will be two numbers in the array, and the first two will form the answer.
 
 #### C
-[code](https://github.com/swha0901/LeetCode/tree/master/Two%20Sum/twosum.c)
+[code](https://github.com/henrysha/LeetCode/tree/master/Two%20Sum/twosum.c)
 
 I basically brute forced through the array using nested for loop. Reason for this is because C is faster than python, and it was bothersome to implement the Hashmap/Dictionary in C.
