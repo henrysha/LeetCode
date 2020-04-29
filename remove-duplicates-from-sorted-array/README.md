@@ -30,7 +30,7 @@ It doesn't matter what values are set beyond the returned length.
 Solution
 ---
 #### C++
-[code](https://github.com/swha0901/LeetCode/blob/master/Remove%20Duplicates%20from%20Sorted%20Array/remove_dup_from_sorted_array.cpp)
+[code](https://github.com/swha0901/LeetCode/blob/master/remove-duplicates-from-sorted-array/remove_dup_from_sorted_array.cpp)
 
 I began with a null check to prevent null pointer error to the array.
 

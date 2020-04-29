@@ -32,7 +32,7 @@ Find the index of the median by dividing the `length-1` by 2.
 
 If index is Integer, return the median. If not, get the indexes around the calculated index, and get the average.
 
-[Solution](median_of_two_sorted_arrays.rb)
+[Solution](https://github.com/swha0901/LeetCode/blob/master/median-of-two-sorted-arrays/median_of_two_sorted_arrays.rb)
 ```ruby
 # @param {Integer[]} nums1
 # @param {Integer[]} nums2

@@ -46,7 +46,7 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 ### C++
 
-[code](https://github.com/swha0901/LeetCode/blob/master/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/best_time_to_buy_and_sell_stock_II.cpp)
+[code](https://github.com/swha0901/LeetCode/blob/master/best-time-to-buy-and-sell-stock-ii/best_time_to_buy_and_sell_stock_II.cpp)
 
 I began with initializing the variables I need for this problem.
 I would need to save `maxProfit`, which is what we return, a flag to check if the transaction is on since we can only have a single transaction at a single time, the length of the prices array since I would need that multiple times, and the `boughtPrice`, well obviously.
