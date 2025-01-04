@@ -4,6 +4,8 @@ This page contains my solutions to LeetCode problems
 
 ## LeetCode 75
 - [1768. Merge Two Strings Alternatively](./Leetcode75/1768_Merge_Two_Strings_Alternatively.py)
+- [1431. Kids With the Greatest Number of Candies](./Leetcode75/1431_Kids_With_The_Greatest_Number_Of_Candies.py)
+- [1268. Search Suggestions System](./Leetcode75/1268_Search_Suggestion_System.py)
 
 ## Problems
 
