@@ -16,6 +16,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-01-05
 
 - [735. Asteroid Collision]('./Leetcode75/735_Asteroid_Collision.py')
+- [872. Leaf Similar Tree]('./Leetcode75/872_Leaf_Similar_Trees.py')
 
 ## Problems
 
