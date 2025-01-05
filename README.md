@@ -17,6 +17,7 @@ This page contains my solutions to LeetCode problems
 
 - [735. Asteroid Collision]('./Leetcode75/735_Asteroid_Collision.py')
 - [872. Leaf Similar Tree]('./Leetcode75/872_Leaf_Similar_Trees.py')
+- [1679. Max Number of K-Sum Pairs]('./Leetcode75/1679_Max_Number_of_K-Sum_Pairs.py')
 
 ## Problems
 
