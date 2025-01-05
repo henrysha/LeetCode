@@ -13,6 +13,10 @@ This page contains my solutions to LeetCode problems
 - [208. Implement Trie](./Leetcode75/208_Implement_Trie.py)
 - [605. Can Place Flowers]('./Leetcode75/605_Can_Place_Flowers.py)
 
+### 2025-01-05
+
+- [735. Asteroid Collision]('./Leetcode75/735_Asteroid_Collision.py')
+
 ## Problems
 
 - [Two Sum](two-sum)
