@@ -22,6 +22,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-01-06
 
 - [345. Reverse Vowels of a String]('./Leetcode75/345_Reverse_Vowels_of_a_String.py')
+- [334. Increasing Triplet Sequence]('./Leetcode75/334_Increasing_Triplet_Sequence.py')
 
 ## Problems
 
