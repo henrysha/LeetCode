@@ -25,6 +25,7 @@ This page contains my solutions to LeetCode problems
 - [334. Increasing Triplet Sequence]('./Leetcode75/334_Increasing_Triplet_Sequence.py')
 - [700. Search in a Binary Tree]('./Leetcode75/700_Search_in_a_Binary_Tree.py')
 - [1448. Count Good Nodes in Binary Tree]('./Leetcode75/1448_Count_Good_Nodes_in_Binary_Tree.py')
+- [2130. Maximum Twin Sum of a Linked List]('./Leetcode75/2130_Maximum_Twin_Sum_of_a_Linked_list.py')
 
 ## Problems
 
