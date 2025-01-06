@@ -19,6 +19,10 @@ This page contains my solutions to LeetCode problems
 - [872. Leaf Similar Tree]('./Leetcode75/872_Leaf_Similar_Trees.py')
 - [1679. Max Number of K-Sum Pairs]('./Leetcode75/1679_Max_Number_of_K-Sum_Pairs.py')
 
+### 2025-01-06
+
+- [345. Reverse Vowels of a String]('./Leetcode75/345_Reverse_Vowels_of_a_String.py')
+
 ## Problems
 
 - [Two Sum](two-sum)
