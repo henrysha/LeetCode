@@ -23,6 +23,7 @@ This page contains my solutions to LeetCode problems
 
 - [345. Reverse Vowels of a String]('./Leetcode75/345_Reverse_Vowels_of_a_String.py')
 - [334. Increasing Triplet Sequence]('./Leetcode75/334_Increasing_Triplet_Sequence.py')
+- [700. Search in a Binary Tree]('./Leetcode75/700_Search_in_a_Binary_Tree.py')
 
 ## Problems
 
