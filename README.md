@@ -28,6 +28,7 @@ This page contains my solutions to LeetCode problems
 - [2130. Maximum Twin Sum of a Linked List](./Leetcode75/2130_Maximum_Twin_Sum_of_a_Linked_list.py)
 - [450. Delete Node in a BST](./Leetcode75/450_Delete_Node_in_BST.py)
 - [238. Product of Array Except Self](./Leetcode75/238_Product_of_Array_Except_Self.py)
+- [933. Number of Recent Calls](./Leetcode75/933_Number_of_Recent_Calls.py)
 
 ## Problems
 
