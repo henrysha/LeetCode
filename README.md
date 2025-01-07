@@ -35,6 +35,7 @@ This page contains my solutions to LeetCode problems
 - [151. Reverse Words in a String](./Leetcode75/151_Reverse_Words_in_a_String.py)
 - [901. Online Stock Span](./Leetcode75/901_Online_Stock_Span.py)
 - [547. Number of Provinces](./Leetcode75/547_Number_of_Provinces.py)
+- [1143. Longest Common Subsequence](./Leetcode75/1143_Longest_Common_Subsequence.py)
 
 ## Problems
 
