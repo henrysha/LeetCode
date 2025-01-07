@@ -33,6 +33,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-01-07
 
 - [151. Reverse Words in a String](./Leetcode75/151_Reverse_Words_in_a_String.py)
+- [901. Online Stock Span](./Leetcode75/901_Online_Stock_Span.py)
 
 ## Problems
 
