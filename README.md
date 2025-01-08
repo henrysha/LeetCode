@@ -49,6 +49,7 @@ This page contains my solutions to LeetCode problems
 - [724. Find Pivot Index](./Leetcode75/724_Find_Pivot_Index.py)
 - [338. Counting Bits](./Leetcode75/338_Counting_Bits.py)
 - [399. Evaluate Division](./Leetcode75/399_Evaluate_Division.py)
+- [2352. Equal Row and Column Pairs](./Leetcode75/2352_Equal_Row_and_Column_Pairs.py)
 
 ## Problems
 
