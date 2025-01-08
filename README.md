@@ -40,6 +40,10 @@ This page contains my solutions to LeetCode problems
 - [198. House Robber](./Leetcode75/198_House_Robber.py)
 - [62. Unique Paths](./Leetcode75/62_Unique_Paths.py)
 
+### 2025-01-08
+
+- [1004. Max Consecutive Ones III](./Leetcode75/1004_Max_Consecutive_Ones_III.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
