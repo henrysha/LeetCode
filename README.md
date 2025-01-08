@@ -44,6 +44,7 @@ This page contains my solutions to LeetCode problems
 
 - [1004. Max Consecutive Ones III](./Leetcode75/1004_Max_Consecutive_Ones_III.py)
 - [443. String Compression](./Leetcode75/443_String_Compression.py)
+- [2095. Delete the Middle Node of a Linked List](./Leetcode75/2095_Delete_The_Middle_Node_of_a_Linked_List.py)
 
 ## Problems
 
