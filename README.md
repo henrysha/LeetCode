@@ -43,6 +43,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-01-08
 
 - [1004. Max Consecutive Ones III](./Leetcode75/1004_Max_Consecutive_Ones_III.py)
+- [443. String Compression](./Leetcode75/443_String_Compression.py)
 
 ## Problems
 
