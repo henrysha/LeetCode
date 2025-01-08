@@ -46,6 +46,7 @@ This page contains my solutions to LeetCode problems
 - [443. String Compression](./Leetcode75/443_String_Compression.py)
 - [2095. Delete the Middle Node of a Linked List](./Leetcode75/2095_Delete_The_Middle_Node_of_a_Linked_List.py)
 - [215. Kth Largest Element in an Array](./Leetcode75/215_Kth_Largest_Element_in_Array.py)
+- [724. Find Pivot Index](./Leetcode75/724_Find_Pivot_Index.py)
 
 ## Problems
 
