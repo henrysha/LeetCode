@@ -72,8 +72,8 @@ class Solution:
                 return -1
 
             res = []
-            for key in graph:
-                if key == target or key in visited or key not in curr:
+            for key in keys:
+                if key == target or key not in curr:
                     continue
                 res.append(backtracking(target, graph[key], result * curr[key], visited.union(set([key]))))
             res = list(filter(lambda x: x != -1.0, res))
