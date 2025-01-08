@@ -1,8 +1,4 @@
-## LeetCode Solutions
-
-This page contains my solutions to LeetCode problems
-
-## [LeetCode 75](./Leetcode75/)
+# Leetcode 75
 
 ### 2025-01-04
 
@@ -45,13 +41,3 @@ This page contains my solutions to LeetCode problems
 - [1004. Max Consecutive Ones III](./Leetcode75/1004_Max_Consecutive_Ones_III.py)
 - [443. String Compression](./Leetcode75/443_String_Compression.py)
 - [2095. Delete the Middle Node of a Linked List](./Leetcode75/2095_Delete_The_Middle_Node_of_a_Linked_List.py)
-
-## Problems
-
-- [Two Sum](two-sum)
-- [Add Two Numbers](add-two-numbers)
-- [Median of Two Sorted Arrays](median-of-two-sorted-arrays)
-- [Remove Duplicates from Sorted Array](remove-duplicates-from-sorted-array)
-- [Best Time to Buy and Sell Stock II](best-time-to-buy-and-sell-stock-ii)
-- [11. Container with most water](11)
-- [2120. Execution of All Suffix Instructions Staying in a Grid](2120)
