@@ -55,6 +55,7 @@ This page contains my solutions to LeetCode problems
 
 - [283. Move Zeroes](./Leetcode75/283_Move_Zeroes.py)
 - [1732. Find the Highest Altitude](./Leetcode75/1732_Find_the_Highest_Altitude.py)
+- [790. Domino and Tromino Tiling](./Leetcode75/790_Domino_and_Tromino_Tiling.py)
 
 ## Problems
 
