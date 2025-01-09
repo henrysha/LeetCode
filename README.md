@@ -54,6 +54,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-01-09
 
 - [283. Move Zeroes](./Leetcode75/283_Move_Zeroes.py)
+- [1732. Find the Highest Altitude](./Leetcode75/1732_Find_the_Highest_Altitude.py)
 
 ## Problems
 
