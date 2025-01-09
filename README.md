@@ -51,6 +51,10 @@ This page contains my solutions to LeetCode problems
 - [399. Evaluate Division](./Leetcode75/399_Evaluate_Division.py)
 - [2352. Equal Row and Column Pairs](./Leetcode75/2352_Equal_Row_and_Column_Pairs.py)
 
+### 2025-01-09
+
+- [283. Move Zeroes](./Leetcode75/283_Move_Zeroes.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
