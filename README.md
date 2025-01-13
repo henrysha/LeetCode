@@ -63,6 +63,7 @@ This page contains my solutions to LeetCode problems
 - [746. Min Most Climbing Stairs](./Leetcode75/746_Min_Most_Climbing_Stairs.py)
 - [1137. N-th Tribonacci Number](./Leetcode75/1137_Nth_Tribonacci_Number.py)
 - [1657. Determine if Two Strings Are Close](./Leetcode75/1657_Determine_if_Two_Strings_Are_Close.py)
+- [1318. Minimum Flips to Make a OR b Equal to c](./Leetcode75/1318_Minimum_flips_to_Make_a_OR_b_Equal_to_c.py)
 
 ## Problems
 
