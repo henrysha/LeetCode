@@ -67,6 +67,7 @@ This page contains my solutions to LeetCode problems
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](./Leetcode75/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_fee.py)
 - [2336. Smallest Number in Infinite Set](./Leetcode75/2336_Smallest_Number_in_Infinite_Set.py)
 - [435. Non-overlapping Intervals](./Leetcode75/435_Non_overlapping_Intervals.py)
+- [452. Minimum Number of Arrows to Burst Balloons](./Leetcode75/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py)
 
 ## Problems
 
