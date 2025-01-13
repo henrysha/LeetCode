@@ -61,6 +61,7 @@ This page contains my solutions to LeetCode problems
 
 - [1456. Maximum Number of Vowels in a Substring of Given Length](./Leetcode75/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)
 - [746. Min Most Climbing Stairs](./Leetcode75/746_Min_Most_Climbing_Stairs.py)
+- [1137. N-th Tribonacci Number](./Leetcode75/1137_Nth_Tribonacci_Number.py)
 
 ## Problems
 
