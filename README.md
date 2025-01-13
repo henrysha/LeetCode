@@ -57,6 +57,10 @@ This page contains my solutions to LeetCode problems
 - [1732. Find the Highest Altitude](./Leetcode75/1732_Find_the_Highest_Altitude.py)
 - [790. Domino and Tromino Tiling](./Leetcode75/790_Domino_and_Tromino_Tiling.py)
 
+### 2025-01-13
+
+- [1456. Maximum Number of Vowels in a Substring of Given Length](./Leetcode75/1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
