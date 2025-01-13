@@ -68,6 +68,7 @@ This page contains my solutions to LeetCode problems
 - [2336. Smallest Number in Infinite Set](./Leetcode75/2336_Smallest_Number_in_Infinite_Set.py)
 - [435. Non-overlapping Intervals](./Leetcode75/435_Non_overlapping_Intervals.py)
 - [452. Minimum Number of Arrows to Burst Balloons](./Leetcode75/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py)
+- [216. Combination Sum III](./Leetcode75/216_Combination_Sum_III.py)
 
 ## Problems
 
