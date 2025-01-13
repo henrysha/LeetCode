@@ -66,6 +66,7 @@ This page contains my solutions to LeetCode problems
 - [1318. Minimum Flips to Make a OR b Equal to c](./Leetcode75/1318_Minimum_flips_to_Make_a_OR_b_Equal_to_c.py)
 - [714. Best Time to Buy and Sell Stock with Transaction Fee](./Leetcode75/714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_fee.py)
 - [2336. Smallest Number in Infinite Set](./Leetcode75/2336_Smallest_Number_in_Infinite_Set.py)
+- [435. Non-overlapping Intervals](./Leetcode75/435_Non_overlapping_Intervals.py)
 
 ## Problems
 
