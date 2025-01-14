@@ -79,3 +79,4 @@ This page contains my solutions to LeetCode problems
 - [Best Time to Buy and Sell Stock II](best-time-to-buy-and-sell-stock-ii)
 - [11. Container with most water](11)
 - [2120. Execution of All Suffix Instructions Staying in a Grid](2120)
+- [56. Merge Intervals](./56/56_Merge_Intervals.py)
