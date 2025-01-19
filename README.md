@@ -70,6 +70,10 @@ This page contains my solutions to LeetCode problems
 - [452. Minimum Number of Arrows to Burst Balloons](./Leetcode75/452_Minimum_Number_of_Arrows_to_Burst_Balloons.py)
 - [216. Combination Sum III](./Leetcode75/216_Combination_Sum_III.py)
 
+### 2025-01-19
+
+- [2390.Removing Stars from a String](./Leetcode75/2390_Removing_Stars_From_a_String.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
