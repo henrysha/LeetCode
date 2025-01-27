@@ -82,6 +82,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-01-27
 
 - [1207. Unique Number of Occurrences](./Leetcode75/1207_Unique_Number_of_Occurences.py)
+- [328. Odd Even Linked List](./Leetcode75/328_Odd_Even_Linked_List.py)
 
 ## Problems
 
