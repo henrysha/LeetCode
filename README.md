@@ -84,6 +84,7 @@ This page contains my solutions to LeetCode problems
 - [1207. Unique Number of Occurrences](./Leetcode75/1207_Unique_Number_of_Occurences.py)
 - [328. Odd Even Linked List](./Leetcode75/328_Odd_Even_Linked_List.py)
 - [875. Koko Eating Bananas](./Leetcode75/875_Koko_Eating_Bananas.py)
+- [1926. Nearest Exit from Entrance in Maze](./Leetcode75/1926_Nearest_Exit_from_Entrance_in_Maze.py)
 
 ## Problems
 
