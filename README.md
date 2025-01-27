@@ -79,6 +79,10 @@ This page contains my solutions to LeetCode problems
 - [199.Binary Tree Right Side View](./Leetcode75/199_Binary_Tree_Right_Side_View.py)
 - [841. Keys and Rooms](./Leetcode75/841_Keys_and_Rooms.py)
 
+### 2025-01-27
+
+- [1207. Unique Number of Occurrences](./Leetcode75/1207_Unique_Number_of_Occurences.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
