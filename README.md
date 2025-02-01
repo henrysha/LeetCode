@@ -91,7 +91,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-02-01
 
 - [1. Two Sum](./AmazonPrep/1_Two_Sum.py)
-
+- [98. Validate Binary Search Tree](./AmazonPrep/98_Validate_Binary_Search_Tree.py)
 
 ## Problems
 
