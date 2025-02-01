@@ -86,6 +86,13 @@ This page contains my solutions to LeetCode problems
 - [875. Koko Eating Bananas](./Leetcode75/875_Koko_Eating_Bananas.py)
 - [1926. Nearest Exit from Entrance in Maze](./Leetcode75/1926_Nearest_Exit_from_Entrance_in_Maze.py)
 
+## Amazon Prep
+
+### 2025-02-01
+
+- [1. Two Sum](./AmazonPrep/1_Two_Sum.py)
+
+
 ## Problems
 
 - [Two Sum](two-sum)
