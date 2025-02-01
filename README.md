@@ -96,6 +96,7 @@ This page contains my solutions to LeetCode problems
 - [79. Word Search](./AmazonPrep/79_Word_Search.py)
 - [133. Clone Graph](./AmazonPrep/133_Clone_Graph.py)
 - [373. Find K Pairs with Smallest Sums](./AmazonPrep/373_Find_K_Pairs_with_Smallest_Sums.py)
+- [3371. Identify the Largest Outlier in an Array](./AmazonPrep/3371_Identify_the_Largest_Outlier_in_an_Array.py)
 
 ## Problems
 
