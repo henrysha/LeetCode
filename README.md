@@ -95,6 +95,7 @@ This page contains my solutions to LeetCode problems
 - [2683. Neighboring Bitwise XOR](./AmazonPrep/2683_Neighboring_Bitwise_XOR.py)
 - [79. Word Search](./AmazonPrep/79_Word_Search.py)
 - [133. Clone Graph](./AmazonPrep/133_Clone_Graph.py)
+- [373. Find K Pairs with Smallest Sums](./AmazonPrep/373_Find_K_Pairs_with_Smallest_Sums.py)
 
 ## Problems
 
