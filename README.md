@@ -92,6 +92,7 @@ This page contains my solutions to LeetCode problems
 
 - [1. Two Sum](./AmazonPrep/1_Two_Sum.py)
 - [98. Validate Binary Search Tree](./AmazonPrep/98_Validate_Binary_Search_Tree.py)
+- [2683. Neighboring Bitwise XOR](./AmazonPrep/2683_Neighboring_Bitwise_XOR.py)
 
 ## Problems
 
