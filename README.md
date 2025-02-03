@@ -98,6 +98,10 @@ This page contains my solutions to LeetCode problems
 - [373. Find K Pairs with Smallest Sums](./AmazonPrep/373_Find_K_Pairs_with_Smallest_Sums.py)
 - [3371. Identify the Largest Outlier in an Array](./AmazonPrep/3371_Identify_the_Largest_Outlier_in_an_Array.py)
 
+### 2025-02-03
+
+- [121. Best time to buy and sell stock](./AmazonPrep/121_Best_Time_to_Buy_and_Sell_Stock.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
