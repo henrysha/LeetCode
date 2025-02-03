@@ -103,6 +103,7 @@ This page contains my solutions to LeetCode problems
 - [121. Best time to buy and sell stock](./AmazonPrep/121_Best_Time_to_Buy_and_Sell_Stock.py)
 - [207. Course Schedule](./AmazonPrep/207_Course_Schedule.py)
 - [200. Number of Islands](./AmazonPrep/200_Number_of_Islands.py)
+- [767. Reorganizing String](./AmazonPrep/767_Reorganizing_String.py)
 
 ## Problems
 
