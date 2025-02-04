@@ -118,6 +118,7 @@ This page contains my solutions to LeetCode problems
 - [9. Palindrome Number](./BloombergPrep/9_Palindrome_Number.py)
 - [540. Single Element in a Sorted Array](./BloombergPrep/540_Single_Element_in_a_Sorted_Array.py)
 - [39. Combination Sum](./BloombergPrep/39_Combination_Sum.py)
+- [1396. Design Underground System](./BloombergPrep/1396_Design_Underground_System.py)
 
 ## Problems
 
