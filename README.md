@@ -112,6 +112,10 @@ This page contains my solutions to LeetCode problems
 - [430. Flatten a Multilevel Doubly Linked List](./BloombergPrep/430_Flatten_a_Multilevel_Doubly_Linked_List.py)
 - [128. Longest Consecutive Sequence](./BloombergPrep/128_Longest_Consecutive_Sequence.py)
 
+### 2025-02-04
+
+- [1169. Invalid Transactions](./BloombergPrep/1169_Invalid_Transactions.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
