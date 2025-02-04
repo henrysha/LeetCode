@@ -115,6 +115,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-02-04
 
 - [1169. Invalid Transactions](./BloombergPrep/1169_Invalid_Transactions.py)
+- [9. Palindrome Number](./BloombergPrep/9_Palindrome_Number.py)
 
 ## Problems
 
