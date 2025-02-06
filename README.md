@@ -120,6 +120,10 @@ This page contains my solutions to LeetCode problems
 - [39. Combination Sum](./BloombergPrep/39_Combination_Sum.py)
 - [1396. Design Underground System](./BloombergPrep/1396_Design_Underground_System.py)
 
+### 2025-02-06
+
+- [1387. Sort Integers by The Power Value](./BloombergPrep/1387_Sort_Integers_by_The_Power_Value.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
