@@ -126,6 +126,7 @@ This page contains my solutions to LeetCode problems
 - [10. Regular Expression Matching](./BloombergPrep/10_Regular_Expression_Matching.py)
 - [167. Two Sum II - Input Array is Sorted](./BloombergPrep/167_Two_Sum_II_Input_Array_is_Sorted.py)
 - [15. 3Sum](./BloombergPrep/15_3Sum.py)
+- [25. Reverse Nodes in k-Group](./BloombergPrep/25_Reverse_Nodes_in_K_Group.py)
 
 ## Daily Questions
 
@@ -137,7 +138,7 @@ This page contains my solutions to LeetCode problems
 
 ### 2025-02-06
 
-- [1852. Distinct Numbers in Each Subarray](./WeeklyPremium/1852_Distinct_Numbers_in_Each_Subarray.py)
+- [1852. Distinct Numbers in Each Subarray](./WeeklyPremium/1852_Distinct_Numbers_in_Each_Subarray.py)ㅏ
 
 ## Problems
 
