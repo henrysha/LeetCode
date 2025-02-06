@@ -125,6 +125,7 @@ This page contains my solutions to LeetCode problems
 - [1387. Sort Integers by The Power Value](./BloombergPrep/1387_Sort_Integers_by_The_Power_Value.py)
 - [10. Regular Expression Matching](./BloombergPrep/10_Regular_Expression_Matching.py)
 - [167. Two Sum II - Input Array is Sorted](./BloombergPrep/167_Two_Sum_II_Input_Array_is_Sorted.py)
+- [15. 3Sum](./BloombergPrep/15_3Sum.py)
 
 ## Problems
 
