@@ -123,6 +123,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-02-06
 
 - [1387. Sort Integers by The Power Value](./BloombergPrep/1387_Sort_Integers_by_The_Power_Value.py)
+- [10. Regular Expression Matching](./BloombergPrep/10_Regular_Expression_Matching.py)
 
 ## Problems
 
