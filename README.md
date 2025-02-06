@@ -133,6 +133,12 @@ This page contains my solutions to LeetCode problems
 
 - [1726. Tuple with Same Product](./DailyQuestions/1726_Tuple_with_Same_Product.py)
 
+## Weekly Premium
+
+### 2025-02-06
+
+- [1852. Distinct Numbers in Each Subarray](./WeeklyPremium/1852_Distinct_Numbers_in_Each_Subarray.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
