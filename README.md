@@ -127,6 +127,12 @@ This page contains my solutions to LeetCode problems
 - [167. Two Sum II - Input Array is Sorted](./BloombergPrep/167_Two_Sum_II_Input_Array_is_Sorted.py)
 - [15. 3Sum](./BloombergPrep/15_3Sum.py)
 
+## Daily Questions
+
+### 2025-02-06
+
+- [1726. Tuple with Same Product](./DailyQuestions/1726_Tuple_with_Same_Product.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
