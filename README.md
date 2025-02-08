@@ -105,6 +105,10 @@ This page contains my solutions to LeetCode problems
 - [200. Number of Islands](./AmazonPrep/200_Number_of_Islands.py)
 - [767. Reorganizing String](./AmazonPrep/767_Reorganizing_String.py)
 
+### 2025-02-08
+
+- [2357. Make Array Zero by Subtracting Equal Amounts](./AmazonPrep/2357_Make_Array_Zero_by_Subtracting_Equal_Amounts.py)
+
 ## Bloomberg Prep
 
 ### 2025-02-03
