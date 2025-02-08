@@ -134,6 +134,10 @@ This page contains my solutions to LeetCode problems
 
 - [1726. Tuple with Same Product](./DailyQuestions/1726_Tuple_with_Same_Product.py)
 
+### 2025-02-08
+
+- [2349. Design a Number Container System](./DailyQuestions/2349_Design_a_Number_Container_System.py)
+
 ## Weekly Premium
 
 ### 2025-02-06
