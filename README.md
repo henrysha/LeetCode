@@ -144,6 +144,10 @@ This page contains my solutions to LeetCode problems
 
 - [1852. Distinct Numbers in Each Subarray](./WeeklyPremium/1852_Distinct_Numbers_in_Each_Subarray.py)ㅏ
 
+### 2025-02-08
+
+- [2599. Make the Prefix Sum Non Negative](./WeeklyPremium/2599_Make_the_Prefix_Sum_Non_Negative.py)
+
 ## Problems
 
 - [Two Sum](two-sum)
