@@ -108,6 +108,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-02-08
 
 - [2357. Make Array Zero by Subtracting Equal Amounts](./AmazonPrep/2357_Make_Array_Zero_by_Subtracting_Equal_Amounts.py)
+- [23. Merge k Sorted Lists](./AmazonPrep/23_Merge_k_Sorted_Lists.py)
 
 ## Bloomberg Prep
 
