@@ -136,6 +136,10 @@ This page contains my solutions to LeetCode problems
 - [15. 3Sum](./BloombergPrep/15_3Sum.py)
 - [25. Reverse Nodes in k-Group](./BloombergPrep/25_Reverse_Nodes_in_K_Group.py)
 
+### 2025-02-14
+
+- [2667. Create Hello World Function](./BloombergPrep/2667_Create_Hello_World_Function.ts)
+
 ## Daily Questions
 
 ### 2025-02-06
