@@ -143,6 +143,10 @@ This page contains my solutions to LeetCode problems
 - [451. Sort Characters by Frequency](./BloombergPrep/451_Sort_Characters_by_Frequency.ts)
 - [3160. Find the Number of Distinct Colors Among the Balls](./BloombergPrep/3160_Find_the_Number_of_Distinct_Colors_Among_the_Balls.ts)
 
+### 2025-02-17
+
+- [1352. Product of the Last K Numbers](./BloombergPrep/1352_Product_of_the_Last_K_Numbers.ts)
+
 ## Daily Questions
 
 ### 2025-02-06
