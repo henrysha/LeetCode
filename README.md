@@ -146,6 +146,7 @@ This page contains my solutions to LeetCode problems
 ### 2025-02-17
 
 - [1352. Product of the Last K Numbers](./BloombergPrep/1352_Product_of_the_Last_K_Numbers.ts)
+- [5. Longest Palindromic Substring](./BloombergPrep/5_Longest_Palindromic_Substring.ts)
 
 ## Daily Questions
 
