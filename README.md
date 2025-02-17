@@ -147,6 +147,7 @@ This page contains my solutions to LeetCode problems
 
 - [1352. Product of the Last K Numbers](./BloombergPrep/1352_Product_of_the_Last_K_Numbers.ts)
 - [5. Longest Palindromic Substring](./BloombergPrep/5_Longest_Palindromic_Substring.ts)
+- [1079. Letter Tile Possibilities](./BloombergPrep/1047_Letter_Tile_Possibilities.ts)
 
 ## Daily Questions
 
