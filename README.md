@@ -160,7 +160,7 @@ This page contains my solutions to LeetCode problems
 
 ### 2025-02-17
 
-- [1079. Letter Tile Possibilities](./DailyQuestions/1047_Letter_Tile_Possibilities.ts)
+- [1079. Letter Tile Possibilities](./DailyQuestions/1079_Letter_Tile_Possibilities.ts)
 
 ## Weekly Premium
 
