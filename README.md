@@ -160,7 +160,7 @@ This page contains my solutions to LeetCode problems
 
 ### 2025-02-17
 
-- [1079. Letter Tile Possibilities](./BloombergPrep/1047_Letter_Tile_Possibilities.ts)
+- [1079. Letter Tile Possibilities](./DailyQuestions/1047_Letter_Tile_Possibilities.ts)
 
 ## Weekly Premium
 
@@ -171,6 +171,10 @@ This page contains my solutions to LeetCode problems
 ### 2025-02-08
 
 - [2599. Make the Prefix Sum Non Negative](./WeeklyPremium/2599_Make_the_Prefix_Sum_Non_Negative.py)
+
+### 2025-02-18
+
+- [1756. Design Most Recently Used Queue](./WeeklyPremium/1756_Design_Most_Recently_Used_Queue.ts)
 
 ## Problems
 
