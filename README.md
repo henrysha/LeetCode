@@ -162,6 +162,10 @@ This page contains my solutions to LeetCode problems
 
 - [1079. Letter Tile Possibilities](./DailyQuestions/1079_Letter_Tile_Possibilities.ts)
 
+### 2025-02-20
+
+- [1980. Find Unique Binary String](./DailyQuestions/1980_Find_Unique_Binary_String.ts)
+
 ## Weekly Premium
 
 ### 2025-02-06
