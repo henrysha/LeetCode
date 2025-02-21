@@ -170,6 +170,10 @@ This page contains my solutions to LeetCode problems
 
 - [1980. Find Unique Binary String](./DailyQuestions/1980_Find_Unique_Binary_String.ts)
 
+### 2025-02-21
+
+- [1261. Find Elements in a Contaminated Binary Tree](./DailyQuestions/1261_Find_Elements_in_a_Contaminated_Binary_Tree.ts)
+
 ## Weekly Premium
 
 ### 2025-02-06
