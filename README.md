@@ -198,3 +198,7 @@ This page contains my solutions to LeetCode problems
 - [11. Container with most water](11)
 - [2120. Execution of All Suffix Instructions Staying in a Grid](2120)
 - [56. Merge Intervals](./56/56_Merge_Intervals.py)
+
+### 2025-02-22
+
+- [1244. Design a Leaderboard](./Problems/1244_Design_a_Leaderboard.ts)
