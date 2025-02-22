@@ -113,6 +113,10 @@ This page contains my solutions to LeetCode problems
 - [49. Group Anagrams](./AmazonPrep/49_Group_Anagrams.py)
 - [210. Course Schedule II](./AmazonPrep/210_Course_Schedule_II.py)
 
+### 2025-02-22
+
+- [347. Top K Frequent Elements](./AmazonPrep/347_Top_K_Frequent_Element.py)
+
 ## Bloomberg Prep
 
 ### 2025-02-03
