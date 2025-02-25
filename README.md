@@ -156,6 +156,10 @@ This page contains my solutions to LeetCode problems
 
 - [206. Reverse Linked List](./BloombergPrep/206_Reverse_Linked_List.ts)
 
+### 2025-02-25
+
+- [1415. The k-th Lexicographical String of All Happy Strings of Length n](./BloombergPrep/1415_The_kth_Lexicographical_String_of_All_Happy_Strings_of_Length_n.ts)
+
 ## Daily Questions
 
 ### 2025-02-06
